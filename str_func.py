@@ -1,9 +1,9 @@
-def caps_letters(text):
+def caps_letters(string):
     '''возвращает текст капсом'''
-    return text.upper()
+    return string.upper()
 
 
-def title_letters(text):
+def title_letters(string):
     '''возвращает строку с первой заглавный буквой'''
-    return text.title()
+    return string.title()
 
